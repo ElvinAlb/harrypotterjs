@@ -145,6 +145,22 @@ footer p {
   color: var(--Gold, #b99049);
 }
 
+.gryffindor >img:hover{
+  border: 8px solid var(--red);
+}
+
+.slytherin >img:hover{
+  border: 8px solid var(--green);
+}
+
+.hufflepuff >img:hover{
+  border: 8px solid #e1b50c;
+}
+
+.ravenclaw >img:hover{
+  border: 8px solid var(--blue)
+}
+
 /* PAGE PERSO */
 .page_perso h3 {
   padding: 50px 50px 0 50px;
