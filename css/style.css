@@ -145,19 +145,19 @@ footer p {
   color: var(--Gold, #b99049);
 }
 
-.gryffindor >img:hover{
+.Gryffindor >img:hover{
   border: 8px solid var(--red);
 }
 
-.slytherin >img:hover{
+.Slytherin >img:hover{
   border: 8px solid var(--green);
 }
 
-.hufflepuff >img:hover{
+.Hufflepuff >img:hover{
   border: 8px solid #e1b50c;
 }
 
-.ravenclaw >img:hover{
+.Ravenclaw >img:hover{
   border: 8px solid var(--blue)
 }
 
